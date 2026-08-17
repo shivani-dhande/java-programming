@@ -24,3 +24,21 @@ I am using this repository to practice Java programming, improve my problem-solv
 ## Author
 
 Shivani Dhande
+
+## Progress
+
+### Completed
+- [x] Hello World
+- [x] Variables and Data Types
+
+### Currently Learning
+- [ ] Operators
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays
+- [ ] Strings
+- [ ] Methods
+- [ ] OOP
+- [ ] Exception Handling
+- [ ] Collections
+- [ ] JDBC
