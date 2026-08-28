@@ -13,5 +13,19 @@ public class InheritanceDemo {
         cat.eat();
         cat.meow();
         cat.sleep();
+
+        Animal animal1=new Dog();
+        animal1.eat();
+        Animal animal2=new Cat();
+        animal2.eat();
+
+        Animal[] animals={
+                new Dog(),
+                new Cat(),
+                new Dog()
+        };
+        for(int i=0;i<animals.length;i++){
+            animals[i].eat();
+        }
     }
 }
